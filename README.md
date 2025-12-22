@@ -33,7 +33,6 @@ Permainan dibagi ke dalam beberapa hari, yang merepresentasikan lamanya penyakit
 
 <img width="2879" height="1467" alt="Screenshot 2025-12-22 162740" src="https://github.com/user-attachments/assets/8761075c-b586-4587-9316-ef0edd17cbe3" />
 
-
 ## Alur Cerita Singkat
 
 Pemain memulai permainan sebagai pendatang baru di lingkungan perumahan. Seiring berjalannya cerita, pemain akan:
@@ -47,7 +46,6 @@ Pemain memulai permainan sebagai pendatang baru di lingkungan perumahan. Seiring
 Di akhir permainan, pemain akan mendapatkan apresiasi dari masyarakat serta pesan edukatif mengenai pentingnya penanganan dini dan dukungan sosial bagi penderita kusta.
 
 <img width="2879" height="1465" alt="image" src="https://github.com/user-attachments/assets/909b5374-4510-4e58-8d87-6823e8122f1e" />
-
 
 ## Teknologi yang Digunakan
 
